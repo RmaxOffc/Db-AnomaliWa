@@ -1,18 +1,72 @@
 {
-  "628123456789": {
-    "phone": "628123456789",
-    "name": "Nama User",
-    "server": "Asia",
-    "uid": "8123456789",
-    "favoriteChar": "Raiden",
-    "registeredAt": "2024-01-01T00:00:00.000Z",
-    "lastLogin": "2024-01-01T00:00:00.000Z"
-  },
   "6281234216411": {
-    "nick": "ramak",
-    "server": "aisa",
+    "nick": "rama",
+    "server": "asia",
+    "uid": "288383939",
+    "karakter": "furina",
+    "tanggal": "Selasa, 17 Februari 2026 pukul 15.35"
+  },
+  "6282131454993": {
+    "nick": "rmax",
+    "server": "asia",
     "uid": "1801960059",
     "karakter": "furina",
-    "tanggal": "Rabu, 18 Februari 2026 pukul 10.02"
+    "tanggal": "Selasa, 17 Februari 2026 pukul 19.24"
+  },
+  "6283857553957": {
+    "nick": "Susan",
+    "server": "Asia",
+    "uid": "1816036862",
+    "karakter": "neuvillette",
+    "tanggal": "Selasa, 17 Februari 2026 pukul 20.18"
+  },
+  "628176631025": {
+    "nick": "Chenn",
+    "server": "Asia",
+    "uid": "896195539",
+    "karakter": "Columbina",
+    "tanggal": "Selasa, 17 Februari 2026 pukul 20.21"
+  },
+  "62895320080163": {
+    "nick": "liann",
+    "server": "Asia",
+    "uid": "836138654",
+    "karakter": "arlecchino",
+    "tanggal": "Selasa, 17 Februari 2026 pukul 20.40"
+  },
+  "6282353031136": {
+    "nick": "Seraphim",
+    "server": "Asia",
+    "uid": "‎1817834475",
+    "karakter": "Dehya",
+    "tanggal": "Selasa, 17 Februari 2026 pukul 20.41"
+  },
+  "6283897635154": {
+    "nick": "cendil",
+    "server": "Asia",
+    "uid": "875402964",
+    "karakter": "kazuha",
+    "tanggal": "Selasa, 17 Februari 2026 pukul 20.44"
+  },
+  "6285179702370": {
+    "nick": "Hae",
+    "server": "Asia",
+    "uid": "1821886278",
+    "karakter": "Andersdotter",
+    "tanggal": "Selasa, 17 Februari 2026 pukul 20.59"
+  },
+  "6282214501982": {
+    "nick": "fiyya",
+    "server": "Asia",
+    "uid": "840638083",
+    "karakter": "Illuga",
+    "tanggal": "Selasa, 17 Februari 2026 pukul 21.35"
+  },
+  "6287840895060": {
+    "nick": "Henry",
+    "server": "Asia",
+    "uid": "1819718778",
+    "karakter": "Flins",
+    "tanggal": "Rabu, 18 Februari 2026 pukul 08.25"
   }
 }
